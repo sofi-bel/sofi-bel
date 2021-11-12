@@ -12,10 +12,11 @@ I have a bachelor's degree in Informatics and Computer engendering from the
 Currently, I'm studying at [Yandex.Practicum](https://practicum.yandex.com/) on Web developer Plus
 
 ## My code statistics from 8th November 2021:
-
+<!--START_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/29a8352f-15fa-421a-b8ff-a7adff87a0dc.svg)](https://wakatime.com/@29a8352f-15fa-421a-b8ff-a7adff87a0dc)
 
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ameti&layout=compact)
+<!--END_SECTION:waka-->
 
 ## Skills
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
