@@ -12,15 +12,10 @@ I have a bachelor's degree in Informatics and Computer engendering from the
 Currently, I'm studying at [Yandex.Practicum](https://practicum.yandex.com/) on Web developer Plus
 
 ## My code statistics from 8th November 2021:
-<!--START_SECTION:waka-->
-```text
-CSS          8 hrs 55 mins   ██████████████▒░░░░░░░░░░   57.05 % 
-Markdown     3 hrs 32 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.62 % 
-HTML         2 hrs 52 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.36 % 
-JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-JavaScript   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-```
-<!--END_SECTION:waka-->
+
+[![wakatime](https://wakatime.com/badge/user/29a8352f-15fa-421a-b8ff-a7adff87a0dc.svg)](https://wakatime.com/@29a8352f-15fa-421a-b8ff-a7adff87a0dc)
+
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ameti&layout=compact)
 
 ## Skills
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
