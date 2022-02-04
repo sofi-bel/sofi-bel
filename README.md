@@ -1,8 +1,6 @@
 ### Hi there 👋 
 I'm Anastasiia Metikova  I prefer to be called Stacy.
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=4AB197)](https://www.linkedin.com/in/a-meti/)
-
 I'm a freelance Frontend Developer with 1.5+ years commercial experience. I'm studying Frontend since 2018.  Also, 
 I have experience with Backend (Java) (2016-2018).
 
@@ -13,7 +11,7 @@ Currently, I'm studying at [Yandex.Practicum](https://practicum.yandex.com/) on 
 
 ## My code statistics from 8th November 2021:
 
-[![wakatime](https://wakatime.com/badge/user/29a8352f-15fa-421a-b8ff-a7adff87a0dc.svg)](https://wakatime.com/@29a8352f-15fa-421a-b8ff-a7adff87a0dc)
+[![wakatime](https://wakatime.com/badge/user/29a8352f-15fa-421a-b8ff-a7adff87a0dc.svg?style=for-the-badge&logo=appveyor)](https://wakatime.com/@29a8352f-15fa-421a-b8ff-a7adff87a0dc)
 
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ameti&layout=compact)
 
