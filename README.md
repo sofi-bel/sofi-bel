@@ -1,13 +1,10 @@
-### Hi there 👋 
-I'm Anastasiia Metikova  I prefer to be called Stacy.
+### Hi there 👋 I'm Stacy)
 
-I'm a freelance Frontend Developer with 1.5+ years commercial experience. I'm studying Frontend since 2018.  Also, 
-I have experience with Backend (Java) (2016-2018).
+I'm a freelance Frontend Developer.
 
 I have a bachelor's degree in Informatics and Computer engendering from the 
 [Tomsk State University of Control Systems and Radio electronics.](https://tusur.ru/en)
 
-Currently, I'm studying at [Yandex.Practicum](https://practicum.yandex.com/) on Web developer Plus
 
 ## My code statistics from 8th November 2021:
 
