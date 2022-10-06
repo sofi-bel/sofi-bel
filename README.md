@@ -5,8 +5,6 @@ I'm a freelance Frontend Developer.
 I have a bachelor's degree in Informatics and Computer engendering from the 
 [Tomsk State University of Control Systems and Radio electronics.](https://tusur.ru/en)
 
-At the moment I am studying at the [ Tomsk Polytechnic University](https://tpu.ru/en) [master's program of software engineering.](https://up.tpu.ru/en/view/detali.html?id=28160)
-
 ## My code statistics from 8th November 2021:
 
 [![wakatime](https://wakatime.com/badge/user/29a8352f-15fa-421a-b8ff-a7adff87a0dc.svg?style=for-the-badge&logo=appveyor)](https://wakatime.com/@29a8352f-15fa-421a-b8ff-a7adff87a0dc)
