@@ -9,7 +9,7 @@ I have a bachelor's degree in Informatics and Computer engendering from the
 
 [![wakatime](https://wakatime.com/badge/user/29a8352f-15fa-421a-b8ff-a7adff87a0dc.svg?style=for-the-badge&logo=appveyor)](https://wakatime.com/@29a8352f-15fa-421a-b8ff-a7adff87a0dc)
 
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ameti&layout=compact)
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sofi_bel&layout=compact)
 
 ## Skills
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
