@@ -1,9 +1,11 @@
 ### Hi there 👋 I'm Sofi)
 
-I'm a freelance Frontend Developer.
+I am in my first year of a Master of Software Engineering in Autonomy intellectual systems at [National Research Tomsk Polytechnic University.](https://tpu.ru/en/)
 
-I have a bachelor's degree in Informatics and Computer engendering from the 
-[Tomsk State University of Control Systems and Radio electronics.](https://tusur.ru/en)
+I completed a Bachelor of Science in Computer Science in Informatics and Computer engendering at [Tomsk State University of Control Systems and Radio electronics,](https://tusur.ru/en) having graduated with a GPA of 4.4.
+
+I’m a freelance Frontend Developer with 4+ years of experience. 
+
 
 ## My code statistics from 8th November 2021:
 
