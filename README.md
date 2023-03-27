@@ -7,7 +7,7 @@ I completed a Bachelor of Science in Computer Science in Informatics and Compute
 I’m a freelance Frontend Developer with 4+ years of experience. 
 
 
-## My code statistics from 8th November 2021:
+## Part of my code statistics from 8th November 2021:
 
 [![wakatime](https://wakatime.com/badge/user/29a8352f-15fa-421a-b8ff-a7adff87a0dc.svg?style=for-the-badge&logo=appveyor)](https://wakatime.com/@29a8352f-15fa-421a-b8ff-a7adff87a0dc)
 
