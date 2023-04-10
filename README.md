@@ -4,7 +4,7 @@ I am in my first year of a Master of Software Engineering in Autonomy intellect
 
 I completed a Bachelor of Science in Computer Science in Informatics and Computer engendering at [Tomsk State University of Control Systems and Radio electronics,](https://tusur.ru/en) having graduated with a GPA of 4.4.
 
-I’m a freelance Frontend Developer with 4+ years of experience. 
+I’m a freelance Frontend Developer with 3+ years of experience. 
 
 
 ## Part of my code statistics from 8th November 2021:
