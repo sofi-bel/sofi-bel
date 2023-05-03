@@ -11,8 +11,7 @@ I’m a freelance Frontend Developer with 3+ years of experience.
 
 [![wakatime](https://wakatime.com/badge/user/29a8352f-15fa-421a-b8ff-a7adff87a0dc.svg?style=for-the-badge&logo=appveyor)](https://wakatime.com/@29a8352f-15fa-421a-b8ff-a7adff87a0dc)
 
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sofi_bel&layout=compact)
-
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@sofi_bel/f7053290-b99d-4262-bbb6-57017cbea725.svg" /></a>
 ## Skills
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
