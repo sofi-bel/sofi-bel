@@ -58,3 +58,14 @@ I’m a freelance Frontend Developer with 3+ years of experience.
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sofi-bel&hide_border=&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<details><summary>Machine Learning</summary>
+ 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=regression-analysis-in-R)](https://github.com/sofi-bel/regression-analysis-in-R)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=principal-component-analysis-PCA-in-R)](https://github.com/sofi-bel/principal-component-analysis-PCA-in-R)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=sPLS-DA-with-SRBCT-dataset-in-R)](https://github.com/sofi-bel/sPLS-DA-with-SRBCT-dataset-in-R)
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=LSTM-GRU-RNN)](https://github.com/sofi-bel/LSTM-GRU-RNN)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=metal-corrosion-classification)](https://github.com/sofi-bel/metal-corrosion-classification)
+
+</details>
