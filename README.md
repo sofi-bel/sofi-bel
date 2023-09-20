@@ -18,11 +18,11 @@ I’m a freelance Frontend Developer with 3+ years of experience.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=todo-js)](https://github.com/sofi-bel/todo-js)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=todo-react)](https://github.com/sofi-bel/todo-react)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=webpack-template)](https://github.com/sofi-bel/webpack-template)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=russian-travel)](https://github.com/sofi-bel/russian-travel)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=mesto-project)](https://github.com/sofi-bel/mesto-project)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=how-to-learn)](https://github.com/sofi-bel/how-to-learn)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=webpack-template)](https://github.com/sofi-bel/webpack-template)
 
 
 ## Skills
