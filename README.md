@@ -62,12 +62,3 @@ I’m a freelance Frontend Developer with 3+ years of experience.
 ![image](https://www.codewars.com/users/sofi-bel/badges/large)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sofi-bel&hide_border=&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
-
-<details><summary>Algorithms</summary>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=javascript-algorithms)](https://github.com/sofi-bel/javascript-algorithms)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=grokking-algorithms-js)](https://github.com/sofi-bel/grokking-algorithms-js)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=essential-algorithms-js)](https://github.com/sofi-bel/essential-algorithms-js)
-
-</details>
