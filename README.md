@@ -23,9 +23,6 @@ I’m a freelance Frontend Developer with 3+ years of experience.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=mesto-project)](https://github.com/sofi-bel/mesto-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=how-to-learn)](https://github.com/sofi-bel/how-to-learn)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=webpack-template)](https://github.com/sofi-bel/webpack-template)
-
-
 ## Skills
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
