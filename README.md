@@ -16,7 +16,6 @@ I’m a freelance Frontend Developer with 3+ years of experience.
 
 ## Frontend projects 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=ip-address-tracker)](https://github.com/sofi-bel/ip-address-tracker)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=todo-js)](https://github.com/sofi-bel/todo-js)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=todo-react)](https://github.com/sofi-bel/todo-react)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=russian-travel)](https://github.com/sofi-bel/russian-travel)
