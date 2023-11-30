@@ -55,6 +55,7 @@ I’m a freelance Frontend Developer with 3+ years of experience.
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
-![image](https://www.codewars.com/users/sofi-bel/badges/large)
+[![image](https://www.codewars.com/users/sofi-bel/badges/large)](https://www.codewars.com/users/sofi-bel)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sofi-bel&hide_border=&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
