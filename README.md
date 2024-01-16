@@ -8,13 +8,9 @@ I am a freelance frontend developer with over 3 years of experience.
 
 
 ## Part of my code statistics from 8th November 2021:
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sofi_bel&layout=compact&langs_count=13)](https://github.com/sofi-bel/github-readme-stats)
 
-[![wakatime](https://wakatime.com/badge/user/29a8352f-15fa-421a-b8ff-a7adff87a0dc.svg?style=for-the-badge&logo=appveyor)](https://wakatime.com/@29a8352f-15fa-421a-b8ff-a7adff87a0dc)
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@sofi_bel/c0c685cc-5d72-43af-aea5-2fbbe1ad1bce.svg" /></a>
-
-
-## Frontend projects 
+## Projects 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=ip-address-tracker)](https://github.com/sofi-bel/ip-address-tracker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=todo-react)](https://github.com/sofi-bel/todo-react)
 
