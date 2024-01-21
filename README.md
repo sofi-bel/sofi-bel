@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Sofi)
 
-I am a second-year master's student majoring in Software Engineering at the [National Research Tomsk Polytechnic University,](https://tpu.ru/en/) , with a GPA of 5.0.
+I am a second-year master's student majoring in Software Engineering at the [National Research Tomsk Polytechnic University](https://tpu.ru/en/) , with a GPA of 5.0.
 
-I graduated with a Bachelor's degree in Computer Science and Computer Engineering from [Tomsk State University of Control Systems and Radio electronics,](https://tusur.ru/en), with a GPA of 4.4.
+I graduated with a Bachelor's degree in Computer Science and Computer Engineering from [Tomsk State University of Control Systems and Radio electronics](https://tusur.ru/en), with a GPA of 4.4.
 
 I am a freelance frontend developer with over 3 years of experience.
 
