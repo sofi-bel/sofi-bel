@@ -11,6 +11,7 @@ I am a freelance frontend developer with over 3 years of experience.
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sofi_bel&layout=compact&langs_count=13)](https://github.com/sofi-bel/github-readme-stats)
 
 ## Projects 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=online-restaurant)](https://github.com/sofi-bel/online-restaurant)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=ip-address-tracker)](https://github.com/sofi-bel/ip-address-tracker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=todo-react)](https://github.com/sofi-bel/todo-react)
 
