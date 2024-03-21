@@ -4,7 +4,7 @@ I am a second-year master's student majoring in Software Engineering at the [Nat
 
 I graduated with a Bachelor's degree in Computer Science and Computer Engineering from [Tomsk State University of Control Systems and Radio electronics](https://tusur.ru/en), with a GPA of 4.4.
 
-I am a freelance frontend developer with over 3 years of experience.
+I am a freelance frontend developer with over 2 years of experience.
 
 
 ## Part of my code statistics from 8th November 2021:
