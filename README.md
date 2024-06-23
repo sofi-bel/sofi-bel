@@ -1,11 +1,12 @@
-### Hi there 👋 I'm Sofi)
+## Hi there 👋 I'm Sofi)
 
-I am a second-year master's student majoring in Software Engineering at the [National Research Tomsk Polytechnic University](https://tpu.ru/en/), with a GPA of 5.0.
+I'm a freelance Frontend developer with 2+ years of experience working on commercial projects. My passion is to create fast, beautiful, and user-friendly web interfaces that delight users.
 
-I graduated with a Bachelor's degree in Computer Science and Computer Engineering from [Tomsk State University of Control Systems and Radio electronics](https://tusur.ru/en), with a GPA of 4.4.
+### Education:
 
-I am a freelance frontend developer with over 2 years of experience.
+Master's in Software Engineering, [National Research Tomsk Polytechnic University](https://tpu.ru/en/).
 
+Bachelor's in Computer Science and Engineering, [Tomsk State University of Control Systems and Radio electronics](https://tusur.ru/en).
 
 ## Part of my code statistics from 8th November 2021:
 [![wakatime](https://wakatime.com/badge/user/29a8352f-15fa-421a-b8ff-a7adff87a0dc.svg?style=for-the-badge&logo=appveyor)](https://wakatime.com/@29a8352f-15fa-421a-b8ff-a7adff87a0dc)
