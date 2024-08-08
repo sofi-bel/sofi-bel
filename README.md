@@ -16,8 +16,6 @@ Bachelor's in Computer Science and Engineering, [Tomsk State University of Contr
 ## Projects 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=personal-website)](https://github.com/sofi-bel/personal-website)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=online-restaurant)](https://github.com/sofi-bel/online-restaurant)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=ip-address-tracker)](https://github.com/sofi-bel/ip-address-tracker)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=todo-react)](https://github.com/sofi-bel/todo-react)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=mesto-project)](https://github.com/sofi-bel/mesto-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=russian-travel)](https://github.com/sofi-bel/russian-travel)
@@ -54,9 +52,3 @@ Bachelor's in Computer Science and Engineering, [Tomsk State University of Contr
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-
-[![image](https://www.codewars.com/users/sofi-bel/badges/large)](https://www.codewars.com/users/sofi-bel)
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sofi-bel&hide_border=&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
