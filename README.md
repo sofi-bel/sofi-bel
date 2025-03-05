@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sofi)
 
-I'm a freelance Frontend developer with 2+ years of experience working on commercial projects. My passion is to create fast, beautiful, and user-friendly web interfaces that delight users.
+I'm a freelance Frontend developer with 3+ years of experience working on commercial projects. My passion is to create fast, beautiful, and user-friendly web interfaces that delight users.
 
 ### Education:
 
