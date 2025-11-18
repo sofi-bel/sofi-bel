@@ -8,19 +8,6 @@ Master's in Software Engineering, [National Research Tomsk Polytechnic Universit
 
 Bachelor's in Computer Science and Engineering, [Tomsk State University of Control Systems and Radio electronics](https://tusur.ru/en).
 
-## Part of my code statistics from 8th November 2021:
-[![wakatime](https://wakatime.com/badge/user/29a8352f-15fa-421a-b8ff-a7adff87a0dc.svg?style=for-the-badge&logo=appveyor)](https://wakatime.com/@29a8352f-15fa-421a-b8ff-a7adff87a0dc)
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@sofi_bel/21599052-9676-4b0b-a671-55e0baac63d7.svg" /></a>
-
-
-## Projects 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=personal-website)](https://github.com/sofi-bel/personal-website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=online-restaurant)](https://github.com/sofi-bel/online-restaurant)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=mesto-project)](https://github.com/sofi-bel/mesto-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=russian-travel)](https://github.com/sofi-bel/russian-travel)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofi-bel&repo=how-to-learn)](https://github.com/sofi-bel/how-to-learn)
-
 ## Skills
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
