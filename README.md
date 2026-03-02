@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Sofi
+## Hi there 👋 
 
 I'm a freelance Frontend developer. My passion is to create fast, beautiful, and user-friendly web interfaces that delight users.
 
