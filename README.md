@@ -1,12 +1,6 @@
-## Hi there 👋 I'm Sofi)
+## Hi there 👋 I'm Sofi
 
 I'm a freelance Frontend developer with 3+ years of experience working on commercial projects. My passion is to create fast, beautiful, and user-friendly web interfaces that delight users.
-
-### Education:
-
-Master's in Software Engineering, [National Research Tomsk Polytechnic University](https://tpu.ru/en/).
-
-Bachelor's in Computer Science and Engineering, [Tomsk State University of Control Systems and Radio electronics](https://tusur.ru/en).
 
 ## Skills
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
